@@ -13,11 +13,3 @@ body.portfolio {
 h1, h2, h3, h4, h5, .btn {
   font-family: 'Montserrat', sans-serif;
 }
-
-h2:before { 
-  display: block; 
-  content: " "; 
-  margin-top: -285px; 
-  height: 285px; 
-  visibility: hidden; 
-}
