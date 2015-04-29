@@ -13,3 +13,7 @@ body.portfolio {
 h1, h2, h3, h4, h5, .btn {
   font-family: 'Montserrat', sans-serif;
 }
+
+h2#interaction-design, h2#user-experience {
+  padding-top: 60px;
+}
