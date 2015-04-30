@@ -14,9 +14,7 @@ h1, h2, h3, h4, h5, .btn {
   font-family: 'Montserrat', sans-serif;
 }
 
-/* Add some nicer colors and backgrounds */
-
-
 h2#interaction-design, h2#user-experience {
+  margin-top: -60px;
   padding-top: 60px;
 }
