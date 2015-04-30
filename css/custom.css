@@ -17,4 +17,11 @@ h1, h2, h3, h4, h5, .btn {
 h2#interaction-design, h2#user-experience {
   margin-top: -60px;
   padding-top: 60px;
+  text-align: center;
+}
+
+h3.proj {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
 }
