@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, .btn {
   font-family: 'Montserrat', sans-serif;
 }
 
-h2#interaction-design, h2#user-experience, h2#related-interests, h2#contact-bio {
+h2#my-workflow, h2#interaction-design, h2#user-experience, h2#related-interests, h2#contact-bio {
   margin-top: -60px;
   padding-top: 60px;
   text-align: center;
