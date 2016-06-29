@@ -14,15 +14,43 @@ h1, h2, h3, h4, h5, .btn {
   font-family: 'Montserrat', sans-serif;
 }
 
-h2#my-workflow, h2#interaction-design, h2#user-experience, h2#related-interests, h2#contact-bio {
+h2#my-workflow, h2#interaction-design, h2#user-experience, h2#contact-bio {
   margin-top: -60px;
-  padding-top: 60px;
+  padding-top: 130px;
+  padding-bottom: 30px;
   text-align: center;
   font-weight: bold;
 }
 
-h3.proj {
+h2#related-interests {
+  padding-bottom: 30px;
   text-align: center;
   font-weight: bold;
+}
+
+h3.ixdproj {
+  text-align: center;
+  font-weight: bold;
+  height: 55px;
   font-family: 'Merriweather', serif;
+}
+
+p.ixdproj {
+  height: 130px;
+}
+
+h3.uxproj {
+  text-align: center;
+  font-weight: bold;
+  height: 35px;
+  font-family: 'Merriweather', serif;
+}
+
+p.uxproj {
+  height: 90px;
+}
+
+img.ri {
+  width: 100px;
+  height: auto;
 }
