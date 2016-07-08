@@ -35,23 +35,23 @@ h2#related-interests {
 h3.ixdproj {
   text-align: center;
   font-weight: bold;
-  height: 55px;
+  min-height: 55px;
   font-family: 'Merriweather', serif;
 }
 
 p.ixdproj {
-  height: 130px;
+  min-height: 130px;
 }
 
 h3.uxproj {
   text-align: center;
   font-weight: bold;
-  height: 35px;
+  min-height: 35px;
   font-family: 'Merriweather', serif;
 }
 
 p.uxproj {
-  height: 90px;
+  min-height: 90px;
 }
 
 img.ri {
