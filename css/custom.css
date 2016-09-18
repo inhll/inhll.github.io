@@ -14,12 +14,19 @@ h1, h2, h3, h4, h5, .btn {
   font-family: 'Montserrat', sans-serif;
 }
 
-h2#my-workflow, h2#featured, h2#add-proj, h2#contact-bio {
+h2#my-workflow, h2#add-proj, h2#contact-bio {
   margin-top: -60px;
   padding-top: 100px;
   padding-bottom: 30px;
   text-align: center;
   font-weight: bold;
+}
+
+h2#featured {
+  text-align: center;
+  font-weight: bold;
+
+  padding-bottom: 30px;
 }
 
 h2#related-interests {
@@ -35,18 +42,18 @@ h2#related-interests {
 h3.featured {
   text-align: center;
   font-weight: bold;
-  min-height: 55px;
+  margin-bottom: 20px;
   font-family: 'Merriweather', serif;
 }
 
 p.featured {
-  min-height: 130px;
+  font-size: 1.1em;
 }
 
 h3.add-proj {
   text-align: center;
   font-weight: bold;
-  min-height: 55px;
+  min-height: 35px;
   font-family: 'Merriweather', serif;
 }
 
